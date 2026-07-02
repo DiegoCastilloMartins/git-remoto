@@ -22,7 +22,7 @@ Digite no terminal o seguinte comando: `mvn install:project`
 ```java
 class Main {
     public void teste() {
-        sYSTEM.OUT.PRINTLN("Qualquer coisa...");
+        SYSTEM.OUT.PRINTLN("Qualquer coisa...");
     }
 
 }
